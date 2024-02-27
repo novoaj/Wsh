@@ -1,0 +1,12 @@
+https://brennan.io/2015/01/16/write-a-shell-in-c/
+https://stackoverflow.com/questions/2900785/whats-the-difference-between-cstdlib-and-stdlib-h
+https://www.geeksforgeeks.org/wait-system-call-c/
+https://manpages.ubuntu.com/manpages/lunar/man3/size_t.3type.html#:~:text=size_t%20Used%20for%20a%20count,bytes%20or%20an%20error%20indication. 
+https://stackoverflow.com/questions/15733673/checking-a-character-to-be-a-newline#:~:text=Simply%20comparing%20to%20'%5Cn,r'%20(carriage%20return). 
+https://www.javatpoint.com/strsep-function-in-c
+https://stackoverflow.com/questions/9210528/split-string-with-delimiters-in-c
+https://www.geeksforgeeks.org/convert-string-to-int-in-c/
+https://medium.com/@avocadi/creating-my-own-shell-for-fun-635ea0d3f7b7
+https://www.tutorialspoint.com/data_structures_algorithms/linked_list_program_in_c.htm
+https://stackoverflow.com/questions/8082932/connecting-n-commands-with-pipes-in-a-shell 
+https://www.geeksforgeeks.org/pipe-system-call/
